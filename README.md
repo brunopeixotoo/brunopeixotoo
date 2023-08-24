@@ -1,7 +1,7 @@
 ## <p align="center">print('Hello, World!') 🤓</p> 
 
 <p align="center">Bem-vindo(a) ao meu perfil!</p>
-<p align="center">Apaixonado por tecnologia e ciências humanas!💻📚</p>
+<p align="center">Sou apaixonado por tecnologia e ciências humanas!💻📚</p>
 <p align="center">
 
 </p>
