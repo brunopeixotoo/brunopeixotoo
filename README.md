@@ -1,4 +1,4 @@
-### <p align="center">console.log('Hello, World!') 🤓</p> 
+### <p align="center">console.log('Hello, World!'); 🤓</p> 
 
 <p align="center">Bem-vindo(a) ao meu perfil!</p>
 <p align="center">Sou apaixonado por tecnologia e ciências humanas!💻📚</p>
