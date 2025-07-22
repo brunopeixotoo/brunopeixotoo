@@ -15,4 +15,4 @@
 
 ### Skills | Code with
 
-[![My Skills](https://skillicons.dev/icons?i=dart,flutter,firebase,js,ts,pinia,vue,nuxt,docker&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter,firebase,js,ts,tailwind,pinia,vue,nuxt,docker,git,ubuntu&perline=3)](https://skillicons.dev)
