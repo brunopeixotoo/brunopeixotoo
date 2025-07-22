@@ -26,8 +26,12 @@
     [![My Skills](https://skillicons.dev/icons?i=git,github,ubuntu,docker,vscode,androidstudio,apple)](https://skillicons.dev)
 - Desenvolvimento Web:
 
-    [![My Skills](https://skillicons.dev/icons?i=tailwind,pinia)](https://skillicons.dev) 
+    [![My Skills](https://skillicons.dev/icons?i=tailwind,pinia)](https://skillicons.dev)
 
+  
+💬 Quer colaborar em um projeto criativo e inovador? Estou sempre aberto a novas ideias e parcerias. Entre em contato comigo para discutirmos como podemos criar algo verdadeiramente extraordinário juntos. ✉️
+
+## Vamos Conectar!
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/b_runorodri/)
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-rodrigues-peixoto-67959b273/)
