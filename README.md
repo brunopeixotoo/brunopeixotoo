@@ -23,7 +23,7 @@
     [![My Skills](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev)
 - Ferramentas e Tecnologias: 
 
-    [![My Skills](https://skillicons.dev/icons?i=git,github,ubuntu,docker,visualstudio,androidstudio,apple)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=git,github,ubuntu,docker,vscode,androidstudio,apple)](https://skillicons.dev)
 - Desenvolvimento Web:
 
     [![My Skills](https://skillicons.dev/icons?i=tailwind,pinia)](https://skillicons.dev) 
